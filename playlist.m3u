@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://static.wixstatic.com/media/0d1eb2_a4a40256e443404597d9454fa89921a5~mv2.jpg/v1/fill/w_300,h_300,al_c,q_90/file.jpg" group-title="Sports",ESPN
-http://wcm777.la/tp/espn-hd.m3u8
+http://192.240.113.42:1935/live/canal022.stream/playlist.m3u8?username=.agustin&password=123
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://static.wixstatic.com/media/0d1eb2_a4a40256e443404597d9454fa89921a5~mv2.jpg/v1/fill/w_300,h_300,al_c,q_90/file.jpg" group-title="Sports",ESPN 2
 http://wcm777.la/tp/espn-2.m3u8
 #EXTINF:-1 tvg-id="ESPN3.us" tvg-logo="https://static.wixstatic.com/media/0d1eb2_a4a40256e443404597d9454fa89921a5~mv2.jpg/v1/fill/w_300,h_300,al_c,q_90/file.jpg" group-title="Sports",ESPN 3
