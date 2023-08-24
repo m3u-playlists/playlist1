@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://static.wixstatic.com/media/0d1eb2_a4a40256e443404597d9454fa89921a5~mv2.jpg/v1/fill/w_300,h_300,al_c,q_90/file.jpg" group-title="Sports",ESPN
-https://e1.thetvapp.to/hls/ESPN.m3u8?token=1W-YN_aXcTJhjvhAQ5CFCg&expires=1692940288
+http://wcm777.la/tp/espn-hd.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://static.wixstatic.com/media/0d1eb2_a4a40256e443404597d9454fa89921a5~mv2.jpg/v1/fill/w_300,h_300,al_c,q_90/file.jpg" group-title="Sports",ESPN 2
 https://e1.thetvapp.to/hls/ESPN2.m3u8?token=Ler6upJPwrk-XD_a4PECfg&expires=1692940795
 #EXTINF:-1 tvg-id="FOX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/150px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News
