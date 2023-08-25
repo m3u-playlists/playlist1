@@ -9,11 +9,11 @@ https://e2.thetvapp.to/hls/FoxNewsChannel.m3u8?token=4P_R7Glw8C0hE4r8B_h9cQ&expi
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bd833b41843b56328bac189/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-id="FXX.us" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandeps.com%2Flogo%2FF%2FFXX-01&psig=AOvVaw0Lq1jqykdry6coPrEZHElT&ust=1693005965399000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPCE6_m49oADFQAAAAAdAAAAABAE" group-title="Entertainment",FXX
+#EXTINF:-1 tvg-id="FXX.us" tvg-logo="" group-title="Entertainment",FXX
 https://e3.thetvapp.to/hls/FXXEast.m3u8?token=eIdz3kwskPlBzsO3ioKbFQ&expires=1692941027
 #EXTINF:-1 tvg-id="AFV.us" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Comedy",AFV
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
-#EXTINF:-1 tvg-id="HGTV.us" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.youtube.com%2Fc%2FHGTVUK&psig=AOvVaw34KSSrTaqRwt2x2kEyuJh0&ust=1693007972113000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPi_wqfA9oADFQAAAAAdAAAAABAD" group-title="Comedy",HGTV
+#EXTINF:-1 tvg-id="HGTV.us" tvg-logo="https://brandeps.com/logo-download/H/HGTV-logo-vector-01.svg" group-title="Renovation",HGTV
 https://e2.thetvapp.to/hls/HGTVEast.m3u8?token=_EPkS42dY2rzqoUktSnV-Q&expires=1692943130
 #EXTINF:-1 tvg-id="BETEast.us" tvg-logo="https://i.imgur.com/copIbc9.png" group-title="",BET East
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca670f6593a5d78f0e85aed&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=174&terminate=false&userId=
