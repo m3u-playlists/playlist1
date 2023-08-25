@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://static.wixstatic.com/media/0d1eb2_a4a40256e443404597d9454fa89921a5~mv2.jpg/v1/fill/w_300,h_300,al_c,q_90/file.jpg" group-title="Sports",ESPN
 https://e2.thetvapp.to/hls/ESPN.m3u8?token=Nb2uD3tb2x0pRC4DeGlMJw&expires=1692943010
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://static.wixstatic.com/media/0d1eb2_a4a40256e443404597d9454fa89921a5~mv2.jpg/v1/fill/w_300,h_300,al_c,q_90/file.jpg" group-title="Sports",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.cdnlogo.com%2Flogos%2Fe%2F1%2Fespn2.svg&tbnid=KnejN7Gsji63wM&vet=12ahUKEwi59a7JwPaAAxXZFVkFHfvcBtgQMygCegQIARBR..i&imgrefurl=https%3A%2F%2Fcdnlogo.com%2Flogo%2Fespn2_58832.html&docid=P_-03jxD8HBGEM&w=800&h=800&q=espn2%20logo%201%3A1&client=firefox-b-1-d&ved=2ahUKEwi59a7JwPaAAxXZFVkFHfvcBtgQMygCegQIARBR" group-title="Sports",ESPN 2
 https://e3.thetvapp.to/hls/ESPN2.m3u8?token=qjEgmhx2n9_qSFpql7tFOg&expires=1692943061
 #EXTINF:-1 tvg-id="FOX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/150px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News
 https://e2.thetvapp.to/hls/FoxNewsChannel.m3u8?token=4P_R7Glw8C0hE4r8B_h9cQ&expires=1692940571
