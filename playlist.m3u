@@ -13,6 +13,8 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://e3.thetvapp.to/hls/FXXEast.m3u8?token=eIdz3kwskPlBzsO3ioKbFQ&expires=1692941027
 #EXTINF:-1 tvg-id="AFV.us" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Comedy",AFV
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
+#EXTINF:-1 tvg-id="HGTV.us" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.youtube.com%2Fc%2FHGTVUK&psig=AOvVaw34KSSrTaqRwt2x2kEyuJh0&ust=1693007972113000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPi_wqfA9oADFQAAAAAdAAAAABAD" group-title="Comedy",HGTV
+https://e2.thetvapp.to/hls/HGTVEast.m3u8?token=_EPkS42dY2rzqoUktSnV-Q&expires=1692943130
 #EXTINF:-1 tvg-id="BETEast.us" tvg-logo="https://i.imgur.com/copIbc9.png" group-title="",BET East
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca670f6593a5d78f0e85aed&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=174&terminate=false&userId=
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV
