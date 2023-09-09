@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ACC.us" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSNTHkf0KDyGW8MajuSObF9aSB_XrR2DmrwWGv2Gw=s176-c-k-c0x00ffffff-no-rj" group-title="Sports",ACC Network
+https://d2vv1kwm3dofeu.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/ae179f2f-e91f-4143-b595-3c7022bbdfa8/4.m3u8
 #EXTINF:-1 tvg-id="FS1.us" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/121913-FSO-FOXSportsLogo-PI-7.jpg" group-title="Sports",Fox Sports
 https://live-content.xumo.com/142/content/XM0OKKHP2MNOT5/25643100/4.m3u8
 #EXTINF:-1 tvg-id="ION.us" tvg-logo="https://mb.cision.com/Public/3158/logo/a1e65180c9fb4358_org.jpg" group-title="Undefined",ION
